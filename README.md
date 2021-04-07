@@ -53,3 +53,5 @@ homekit_server_config_t config = {
 
 ### In the password section you can change the pass by default its 111-11-111.
 
+### Go to IOS Home app --> + ---> Add new acessory 
+
