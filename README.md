@@ -14,10 +14,16 @@ ESP8266 HOMEKIT CODE FOR FAN (PWM)
 
 ## STEPS TO COMPILE THE CODE AND UPLOAD 
 
-### 1. DOWNLOAD THE CODE FOLDER.
-### 2. Open the CODE.ino file.
+### 1. DOWNLOAD THE Code FOLDER.
+### 2. Open the Code.ino file.
 ### 3. Change the ssid and pass in wifi_info.h .
 ### 4. Compile the code.
+--------------------------------------------------------------------------------------------------------------------------------
+## STEPS TO CONNECTION
+
+### 1. CONNECT SOLID STATE RELAY TO PIN 5.
+### 2. CONNECT SOLID STATE RELAY TO PIN 4.
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## Steps for pairing 
