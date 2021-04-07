@@ -3,20 +3,24 @@
 ESP8266 HOMEKIT CODE FOR FAN (PWM)
 
 ## STEPS TO FOLLOW 
---------------------------------------------------------------------------------------------------------------------------------
 
 ## STEPS TO INSTALL LIBRAY
+--------------------------------------------------------------------------------------------------------------------------------
+
 
 ### 1. First download the library from https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266
 ### 2. Go to Arduino --> Sketch -->  Include library --> Add .ZIP library 
 ### 3. Select the "Arduino-HomeKit-ESP8266-master" file from the extracted folder.
+--------------------------------------------------------------------------------------------------------------------------------
 
 ## STEPS TO COMPILE THE CODE AND UPLOAD 
+--------------------------------------------------------------------------------------------------------------------------------
 
 ### 1. DOWNLOAD THE CODE FOLDER.
 ### 2. Open the CODE.ino file.
 ### 3. Change the ssid and pass in wifi_info.h .
 ### 4. Compile the code.
+--------------------------------------------------------------------------------------------------------------------------------
 
 ## Steps for pairing 
 
@@ -47,5 +51,7 @@ homekit_server_config_t config = {
   .password = "111-11-111"
 };
 ```
+--------------------------------------------------------------------------------------------------------------------------------
+
 ### In the password section you can change the pass by default its 111-11-111.
 
