@@ -5,7 +5,6 @@ ESP8266 HOMEKIT CODE FOR FAN (PWM)
 ## STEPS TO FOLLOW 
 
 ## STEPS TO INSTALL LIBRAY
---------------------------------------------------------------------------------------------------------------------------------
 
 
 ### 1. First download the library from https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266
@@ -14,7 +13,6 @@ ESP8266 HOMEKIT CODE FOR FAN (PWM)
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## STEPS TO COMPILE THE CODE AND UPLOAD 
---------------------------------------------------------------------------------------------------------------------------------
 
 ### 1. DOWNLOAD THE CODE FOLDER.
 ### 2. Open the CODE.ino file.
